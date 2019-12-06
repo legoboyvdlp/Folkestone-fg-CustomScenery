@@ -1,0 +1,19 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac 0.908224 51.104904 69.23 180
+OBJECT_SHARED Models/Misc/trigpoint.ac 0.989858 51.080735 101.91 180
+OBJECT_SHARED Models/Misc/trigpoint.ac 0.99094 51.114771 85 180
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 0.8494679 51.1109602 39.11 283.47
+OBJECT_SHARED Models/Power/generic_pylon_50m.ac 0.8510718 51.1035879 46.75 277.78
+OBJECT_SHARED Models/Military/Martello_Tower_1.ac 0.993056 51.022222 3.71 0
+OBJECT_SHARED Models/Military/Martello_Tower_1.ac 0.995556 51.024167 2.19 270
+
+
+# pylonsDetails_e000n50_e001n51_2974528
+# do not edit below this line
+# Last Written Thu Dec  5 19:22:37 2019
+#
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 0.99612 51.10157 -0.27 167.281
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 0.99696 51.10146 -0.25 167.281
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 0.99779 51.10134 -0.23 167.281
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 0.99863 51.10122 -0.20 167.281
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 0.99946 51.10110 -0.18 167.281
+# END pylonsDetails_e000n50_e001n51_2974528

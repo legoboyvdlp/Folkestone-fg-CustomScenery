@@ -1,0 +1,101 @@
+# pylonsDetails_e000n50_e001n51_2974577
+# do not edit below this line
+# Last Written Thu Dec  5 21:32:47 2019
+#
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.25066 51.83791 22.19 196.202
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.25121 51.83801 22.43 198.286
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.25176 51.83813 22.98 201.386
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.25243 51.83831 23.84 205.241
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.25320 51.83855 22.65 209.266
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.25394 51.83883 21.67 213.45
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.25465 51.83915 21.07 217.684
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.25532 51.83949 21.34 221.459
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.25595 51.83986 21.89 223.329
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.25658 51.84023 22.99 223.585
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.25721 51.84061 23.63 223.905
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.25784 51.84098 22.67 223.903
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.25846 51.84135 20.95 223.903
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.25909 51.84173 19.90 223.903
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.25972 51.84210 19.48 223.903
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.26034 51.84247 18.40 223.903
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.26097 51.84285 17.00 223.903
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.26160 51.84322 15.43 223.903
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.26222 51.84360 14.73 223.903
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.26285 51.84397 14.56 223.903
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.26348 51.84434 15.20 223.903
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.26410 51.84472 17.03 223.82
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.26473 51.84509 17.64 223.715
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.26536 51.84546 17.09 222.076
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.26602 51.84581 16.33 213.929
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.26679 51.84606 16.46 200.614
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 1.26758 51.84618 16.17 189.915
+OBJECT_STATIC e000n50_e001n51_2974577dcables00005.ac 1.25313 51.83898 22.45 90
+OBJECT_STATIC e000n50_e001n51_2974577dcables00006.ac 1.26222 51.84321 19.10 90
+# END pylonsDetails_e000n50_e001n51_2974577
+# piers_e000n50_e001n51_2974577
+# do not edit below this line
+# Last Written Thu Dec  5 21:32:48 2019
+#
+OBJECT_STATIC e000n50_e001n51_2974577piers0006.ac 1.26450 51.86684 0.00 0
+OBJECT_STATIC e000n50_e001n51_2974577piers0105.ac 1.29350 51.84886 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 1.27535 51.84547 -1.04 129.346
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 1.27128 51.84671 -1.04 209.983
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 1.27559 51.84510 -1.04 -50.6887
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 1.27535 51.84547 -1.04 129.346
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 1.27559 51.84510 -1.04 -50.6887
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 1.27755 51.84469 -1.04 129.516
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 1.27559 51.84510 -1.04 -50.6887
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 1.27963 51.84350 -1.04 159.678
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 1.28010 51.84357 -1.04 327.683
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 1.27925 51.84369 -1.04 208.097
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 1.26062 51.86396 -0.25 -40.8142
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 1.26152 51.86356 -0.25 -46.5354
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 1.26066 51.86377 -0.35 -42.8716
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 1.26160 51.86337 -0.35 119.309
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 1.25566 51.86253 -0.99 72.8026
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 1.25604 51.86263 -0.99 -38.6148
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 1.25630 51.86304 -0.99 -148.663
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 1.26026 51.86432 -0.00 71.8152
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 1.26107 51.86394 -0.00 -43.6261
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 1.26254 51.86341 -0.00 -56.2899
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 1.25627 51.86265 0.68 51.4169
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 1.25667 51.86256 0.68 111.436
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 1.25717 51.86243 0.68 111.415
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 1.25744 51.86243 0.68 -37.4551
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 1.25774 51.86288 0.68 -147.438
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 1.25811 51.86334 0.68 -30.8561
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 1.25820 51.86343 0.68 -18.5392
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 1.25827 51.86348 0.68 -18.5359
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 1.25839 51.86355 0.68 -11.4126
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 1.25438 51.86290 0.44 -151.401
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 1.25668 51.86297 -0.73 31.3826
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 1.25494 51.86286 0.22 -151.503
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 1.25386 51.86301 0.09 -152.771
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 1.25841 51.86341 0.76 69.0299
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 1.25974 51.86424 -0.86 57.7319
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 1.25917 51.86395 -0.49 29.4099
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 1.25714 51.86293 0.11 -149.386
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 1.25896 51.86527 0.00 -32.3749
+OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac 1.25772 51.86246 1.27 114.668
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 1.25518 51.86234 -0.18 25.0676
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 1.25561 51.86291 -0.18 -144.926
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 1.26059 51.86361 0.08 -42.0056
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 1.26158 51.86318 0.08 117.174
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 1.25740 51.86341 -0.09 23.1602
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 1.25765 51.86343 -0.09 87.0705
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 1.25979 51.86390 -0.35 -23.9391
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 1.25986 51.86396 -0.35 -23.9646
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 1.25993 51.86402 -0.35 -23.9646
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 1.26004 51.86411 -0.35 -23.9496
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 1.26018 51.86422 -0.35 -23.9423
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 1.25926 51.86393 -0.86 27.6475
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 1.25943 51.86409 -0.86 -19.1517
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 1.25967 51.86412 -0.86 67.3764
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 1.25979 51.86407 -0.86 67.3764
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 1.25991 51.86412 -0.86 -23.2692
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 1.25394 51.86251 0.72 108.23
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 1.25446 51.86240 0.72 108.252
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 1.25476 51.86234 0.72 48.2411
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 1.25499 51.86229 0.72 108.241
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 1.25528 51.86223 0.72 48.2335
+# END piers_e000n50_e001n51_2974577

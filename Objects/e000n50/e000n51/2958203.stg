@@ -1,0 +1,15 @@
+OBJECT_SHARED Models/Misc/trigpoint.ac 0.787461 51.991517 67.86 180
+OBJECT_SHARED Models/Misc/trigpoint.ac 0.801074 51.949383 63.59 180
+OBJECT_SHARED Models/Misc/trigpoint.ac 0.935652 51.891187 35.9 180
+OBJECT_SHARED Models/Misc/trigpoint.ac 0.936083 51.929876 49.2 180
+OBJECT_SHARED Models/Communications/radio-medium.xml 0.945177 51.8772278 -40.07 180
+OBJECT_STATIC JumboTower.ac 0.895093 51.889535 39.11 0
+
+# pylonsDetails_e000n50_e001n51_2974584
+# do not edit below this line
+# Last Written Thu Dec  5 21:09:33 2019
+#
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 0.99999 51.91680 -0.21 222.852
+OBJECT_SHARED Models/Power/wooden_pole_14m.ac 0.99994 51.92090 -0.24 210.601
+OBJECT_SHARED Models/StreetFurniture/RailPower.ac 0.99996 51.93197 -0.14 236.214
+# END pylonsDetails_e000n50_e001n51_2974584
